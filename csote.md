@@ -1,10 +1,7 @@
 ---
 title: Computer specific optimization techniques experiment
-layout: post
 permalink: /csote/
 ---
-
-# Computer specific optimization techniques experiment
 
 The experiment had as its object next targets:
 1. Compare the performance difference between the same application implemented in Scala and Rust programming languages. 
